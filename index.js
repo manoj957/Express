@@ -99,5 +99,5 @@ app.use(function(err,req,res,next){
     res.sendStatus(500).send('An internal error occured')
 })
 
-validateInput(["sf","sfsdf"])
+validateInput(["sf","sfsdxzc"])
 app.listen(3000);
